@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "name": "White Shirt",
+        "category": "Shirts",
+        "price": 15,
+        "image": "1.png"
+    },
+    {
+        "id": 2,
+        "name": "Blue Shirt",
+        "category": "Shirts",
+        "price": 15,
+        "image": "2.png"
+    },
+    {
+        "id": 3,
+        "name": "Gray Shirt",
+        "category": "Shirts",
+        "price": 15,
+        "image": "3.png"
+    },
+    {
+        "id": 4,
+        "name": "Long-Sleeve Shirt",
+        "category": "Shirts",
+        "price": 15,
+        "image": "4.png"
+    },
+    {
+        "id": 5,
+        "name": "Yellow Shirt",
+        "category": "Shirts",
+        "price": 15,
+        "image": "5.png"
+    },
+    {
+        "id": 6,
+        "name": "Navy Shirt",
+        "category": "Shirts",
+        "price": 15,
+        "image": "6.png"
+    },
+    {
+        "id": 7,
+        "name": "Pink Shirt",
+        "category": "Shirts",
+        "price": 15,
+        "image": "7.png"
+    },
+    {
+        "id": 8,
+        "name": "Black Shirt",
+        "category": "Shirts",
+        "price": 15,
+        "image": "8.png"
+    },
+    {
+        "id": 9,
+        "name": "Buttoned up Shirt",
+        "category": "Shirts",
+        "price": 15,
+        "image": "9.png"
+    },
+    {
+        "id": 10,
+        "name": "Green Shirt",
+        "category": "Shirts",
+        "price": 15,
+        "image": "10.png"
+    },
+    {
+        "id": 11,
+        "name": "Blue Jeans",
+        "category": "Pants",
+        "price": 30,
+        "image": "11.png"
+    },
+    {
+        "id": 12,
+        "name": "Black Sweatpants",
+        "category": "Pants",
+        "price": 30,
+        "image": "12.png"
+    },
+    {
+        "id": 13,
+        "name": "Blue Shorts",
+        "category": "Pants",
+        "price": 20,
+        "image": "13.png"
+    },
+    {
+        "id": 14,
+        "name": "Dark Blue Jeans",
+        "category": "Pants",
+        "price": 20,
+        "image": "14.png"
+    },
+    {
+        "id": 15,
+        "name": "Gray Pants",
+        "category": "Pants",
+        "price": 25,
+        "image": "15.png"
+    },
+    {
+        "id": 16,
+        "name": "Light Blue Shorts",
+        "category": "Pants",
+        "price": 25,
+        "image": "16.png"
+    },
+    {
+        "id": 17,
+        "name": "Dark Blue Shorts",
+        "category": "Pants",
+        "price": 20,
+        "image": "17.png"
+    },
+    {
+        "id": 18,
+        "name": "Red Shorts",
+        "category": "Pants",
+        "price": 25,
+        "image": "18.png"
+    },
+    {
+        "id": 19,
+        "name": "Black Skirt",
+        "category": "Pants",
+        "price": 25,
+        "image": "19.png"
+    },
+    {
+        "id": 20,
+        "name": "Blue Shorts",
+        "category": "Pants",
+        "price": 20,
+        "image": "20.png"
+    }
+]
